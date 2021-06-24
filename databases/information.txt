@@ -1,0 +1,5 @@
+
+**Any JSON files that you wish to be ignored by the parser, include the keyword declaired in json_handler.py**
+**The parser will only parse JSON.**
+
+Default_Keyword = ignore
